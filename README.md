@@ -1,5 +1,4 @@
-NAMA : Deswita Salsabila
-NIM : F1D02410004
+# Aplikasi Top Up Diamond Game
 
 Aplikasi desktop sederhana berbasis Java Swing untuk simulasi transaksi top-up diamond game dengan fitur pemilihan game, nominal item, metode pembayaran, diskon member, dan pencetakan riwayat struk.
 
