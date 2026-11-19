@@ -1,8 +1,14 @@
 NAMA : Deswita Salsabila
 NIM : F1D02410004
 
-# Aplikasi Top Up Diamond Game 
 Aplikasi desktop sederhana berbasis Java Swing untuk simulasi transaksi top-up diamond game dengan fitur pemilihan game, nominal item, metode pembayaran, diskon member, dan pencetakan riwayat struk.
+
+## Cara Kerja Aplikasi
+
+1. **Pengisian Data Transaksi:** Pengguna memilih jenis game, mengetik User ID / Server, memilih nominal diamond, dan menentukan metode pembayaran pada form bagian atas.
+2. **Opsi Promo Member:** Pengguna dapat mencentang kotak promo untuk mendapatkan potongan harga otomatis sebesar Rp 3.000.
+3. **Validasi Input:** Saat tombol **Top Up Sekarang** diklik, program mengecek apakah kolom User ID sudah terisi. Jika kosong, aplikasi menampilkan dialog peringatan agar pengguna melengkapi data terlebih dahulu.
+4. **Perhitungan & Cetak Struk:** Jika data sudah valid, aplikasi menghitung total harga akhir, menambahkan rincian struk transaksi ke area riwayat di bagian tengah, lalu menampilkan dialog konfirmasi bahwa transaksi berhasil.
 
 ## 5 Komponen Utama GUI yang Digunakan
 
