@@ -32,13 +32,11 @@ Aplikasi desktop sederhana berbasis Java Swing untuk simulasi transaksi top-up d
 
 ## Screenshot Aplikasi
 
-![Screenshot Aplikasi](screenshot.png)
-
 ### Tampilan Awal
-![Tampilan Awal](TampilanAwal.png)
+![Tampilan Awal](Screenshot/TampilanAwal.png)
 
 ### Tampilan Struk Transaksi
-![Tampilan Struk](TampilanStruk.png)
+![Tampilan Struk](Screenshot/TampilanStruk.png)
 
 ### Tampilan Pop-up Konfirmasi
-![Tampilan Pop-up Konfirmasi](TampilanPopupKonfirmasi.png)
+![Tampilan Pop-up Konfirmasi](Screenshot/TampilanPopupKonfirmasi.png)
